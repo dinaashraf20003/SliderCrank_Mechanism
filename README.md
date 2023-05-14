@@ -29,5 +29,11 @@ https://github.com/dinaashraf20003/SliderCrank_Mechanism/assets/73821958/4699153
 - The time ratio between the left and right motions: lt = 0.108sec, rt = 0.194sec time ratio = 0.108/0.194 = 0.5567
 ![SliderCrank Simulation](https://github.com/dinaashraf20003/SliderCrank_Mechanism/assets/73821958/de45be6a-ffc6-4a93-8c82-907db7512f45)
 
+# Resources
+- CrankShaft Modeling: <br />
+https://www.youtube.com/watch?v=P4uDdZPBI90 <br />
+
+- Get Started with Simscape Multibody: <br />
+https://www.mathworks.com/help/sm/getting-started-with-simmechanics.html;jsessionid=929593c8f99377c2c3dd5fe2d841
 
 
